@@ -1,0 +1,13 @@
+QUESTÃO 05
+
+Primeiramente verificando o escopo do projeto para sabermos as necessidades e requisitos 
+do site em questão.
+
+Apartir desses requisitos verificar quais ferramentas atendem essas necessidades
+E quais dessas ferramentas a dupla domina ou quais são mais fáceis de serem dominados.
+
+Com ferramentas e escopo decidido tarefas serão divididas de acordo com intimidade de cada
+um com as tarefas a serem feitas.
+
+Boas praticas a serem usadas devem ser compartilhadas entre eles para manter um padrão
+dentre todo projeto

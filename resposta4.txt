@@ -1,0 +1,6 @@
+QUESTÃO 04
+
+O java script permite criação de elementos dinâmicos como animações de elementos html
+validação de formulários antes de enviar ao backend e interações sem necessidade de recarregar a página 
+Além da ampla compatibilidade com a maioria dos navegadores atuais. 
+E com a possibilidade de ser usado tanto em front como back.

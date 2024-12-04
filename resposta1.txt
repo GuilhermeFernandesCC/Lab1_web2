@@ -1,0 +1,7 @@
+QUESTÃO 01
+A World Widw Web, surgindo pela necessidade de compartilhamento de informações 
+entre pesquisadores em diferentes partes do mundo de forma mais rápida e eficiente.
+Já o HTML surge pela necessidade de organização desses conteúdos compartilhados.
+
+Essas inovações fora o estopim para que a web se tornasse a grande rede de compartilhamento 
+entre diversos usários como temos hoje em dia.

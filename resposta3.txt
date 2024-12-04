@@ -1,0 +1,8 @@
+QUESTÃO 03
+
+Versionamento é forma de gerenciar mudanças no código-fonte ao lonog do tempo
+garantindo rastreabilidade e histórico.
+
+Para desenvolvimento colaborativo ele é importante para facilitar paralelismo 
+de desenvolvimento e ajudar a manter qualidade e evitar instabilidade quando fusão 
+de código for necessário.

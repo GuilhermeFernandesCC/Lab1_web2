@@ -1,0 +1,16 @@
+QUESTÃO 02
+
+1. Navegadores:
+    Permitem vizualização e interação dos usários ou desenvolvedores com os sites.
+    para desenvolvedores facilita a verificação em cada etapa do site antes do deploy
+    Ferramentas como a inspeção permite verificar como o código será porcessado pelo
+    cliente e como a estilização está sendo feita.
+
+2. CSS:
+    Mecanismo para estilização de paginas html para melhor vizualização,
+    com escolhas estéticas e de interação.
+
+3. Javascript:
+    Linguagem de programação que facilita a criação de scripts que podem ser executados no front
+    para modificação da página ou lógica simples.
+   
